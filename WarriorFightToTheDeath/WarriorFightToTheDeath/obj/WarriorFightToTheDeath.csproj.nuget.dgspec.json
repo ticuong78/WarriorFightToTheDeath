@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\WarriorFightToTheDeath\\WarriorFightToTheDeath\\WarriorFightToTheDeath.csproj": {}
+    "C:\\Users\\HOMES\\Downloads\\WarriorFightToTheDeath-main\\WarriorFightToTheDeath-main\\WarriorFightToTheDeath\\WarriorFightToTheDeath\\WarriorFightToTheDeath.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\WarriorFightToTheDeath\\WarriorFightToTheDeath\\WarriorFightToTheDeath.csproj": {
+    "C:\\Users\\HOMES\\Downloads\\WarriorFightToTheDeath-main\\WarriorFightToTheDeath-main\\WarriorFightToTheDeath\\WarriorFightToTheDeath\\WarriorFightToTheDeath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\WarriorFightToTheDeath\\WarriorFightToTheDeath\\WarriorFightToTheDeath.csproj",
+        "projectUniqueName": "C:\\Users\\HOMES\\Downloads\\WarriorFightToTheDeath-main\\WarriorFightToTheDeath-main\\WarriorFightToTheDeath\\WarriorFightToTheDeath\\WarriorFightToTheDeath.csproj",
         "projectName": "WarriorFightToTheDeath",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\WarriorFightToTheDeath\\WarriorFightToTheDeath\\WarriorFightToTheDeath.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\WarriorFightToTheDeath\\WarriorFightToTheDeath\\obj\\",
+        "projectPath": "C:\\Users\\HOMES\\Downloads\\WarriorFightToTheDeath-main\\WarriorFightToTheDeath-main\\WarriorFightToTheDeath\\WarriorFightToTheDeath\\WarriorFightToTheDeath.csproj",
+        "packagesPath": "C:\\Users\\HOMES\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOMES\\Downloads\\WarriorFightToTheDeath-main\\WarriorFightToTheDeath-main\\WarriorFightToTheDeath\\WarriorFightToTheDeath\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HOMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

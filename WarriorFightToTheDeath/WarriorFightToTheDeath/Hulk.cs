@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace WarriorFightToTheDeath
 {
-    internal class Thor: Warrior
+    internal class Hulk: Warrior
     {
-        public Thor() 
+        public Hulk()
         {
-            this.Name = "Thor";
-            this.Health = 300;
+            this.Name = "Hulk";
+            this.Health = 1000;
             this.BaseAtk = 100;
-            this.BaseBlock = 200;
+            this.BaseBlock = 300;
         }
     }
 }

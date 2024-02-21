@@ -1,0 +1,14 @@
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\obj\Debug\net8.0\WarriorFightToTheDeath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\obj\Debug\net8.0\WarriorFightToTheDeath.AssemblyInfoInputs.cache
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\obj\Debug\net8.0\WarriorFightToTheDeath.AssemblyInfo.cs
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\obj\Debug\net8.0\WarriorFightToTheDeath.csproj.CoreCompileInputs.cache
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\bin\Debug\net8.0\WarriorFightToTheDeath.exe
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\bin\Debug\net8.0\WarriorFightToTheDeath.deps.json
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\bin\Debug\net8.0\WarriorFightToTheDeath.runtimeconfig.json
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\bin\Debug\net8.0\WarriorFightToTheDeath.dll
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\bin\Debug\net8.0\WarriorFightToTheDeath.pdb
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\obj\Debug\net8.0\WarriorFightToTheDeath.dll
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\obj\Debug\net8.0\refint\WarriorFightToTheDeath.dll
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\obj\Debug\net8.0\WarriorFightToTheDeath.pdb
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\obj\Debug\net8.0\WarriorFightToTheDeath.genruntimeconfig.cache
+C:\Users\HOMES\Downloads\WarriorFightToTheDeath-main\WarriorFightToTheDeath-main\WarriorFightToTheDeath\WarriorFightToTheDeath\obj\Debug\net8.0\ref\WarriorFightToTheDeath.dll
